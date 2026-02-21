@@ -39,4 +39,4 @@
 
 ---
 
-⭐ If you’re reviewing my work: check the pinned repos first — each one should have a clear README, quickstart, and reproducible results.
+⭐ If you’re reviewing my work: check the pinned repos first, each one should have a clear README, quickstart, and reproducible results.
