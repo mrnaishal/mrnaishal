@@ -1,4 +1,4 @@
-![Banner](GitHub_banner.png)
+![Banner](GitHub_Banner.png)
 
 # Hi, I'm Naishal 👋
 
