@@ -12,7 +12,7 @@ I have **5+ years of experience building production data platforms and machine l
 
 ### 🧠 AgentiveMed — Multi-Agent KG-RAG Medical Assistant
 
-🔗 https://github.com/mrnaishal/agentivemed
+🔗 https://github.com/mrnaishal/Agentive-Med
 
 Multi-agent medical assistant using **Knowledge Graphs + RAG + LLM agents**.
 
@@ -31,7 +31,7 @@ Tech:
 
 ### 🐶 Dog Emotion Recognition (Vision Transformers)
 
-🔗 https://github.com/mrnaishal/dog-emotion-recognition
+🔗 https://github.com/mrnaishal/Is-the-Dog-Happy
 
 Computer vision system that detects **dog emotional states using Vision Transformers**.
 
@@ -47,27 +47,9 @@ Tech:
 
 ---
 
-### 📈 Time Series Forecasting Pipeline
-
-🔗 https://github.com/mrnaishal/time-series-forecasting
-
-End-to-end forecasting framework for demand and trend analysis.
-
-Features:
-
-* XGBoost forecasting models
-* Data validation + feature engineering
-* Visualization dashboards
-* Reproducible ML pipeline
-
-Tech:
-`Python` `XGBoost` `Pandas` `Forecasting` `ML Pipelines`
-
----
-
 ### ⚽ Fantasy Premier League Optimization
 
-🔗 https://github.com/mrnaishal/Fantasy-Premier-League-Optimization-Using-Machine-Learning
+🔗 https://github.com/mrnaishal/FPL-Optimization-Using-ML
 
 Machine learning system to optimize fantasy football team selection.
 
