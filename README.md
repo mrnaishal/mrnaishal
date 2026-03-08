@@ -66,9 +66,7 @@ Tech:
 
 ## 🧠 Technical Skills
 
-**Languages**
-
-Python • SQL • Scala
+**Languages**: Python • SQL • Scala
 
 **Machine Learning**: Scikit-Learn • PyTorch • TensorFlow • XGBoost • Transformers • Computer Vision
 
@@ -82,8 +80,9 @@ Python • SQL • Scala
 
 ## 🏆 Certifications
 
-📜 **AI Engineer for Data Scientists Associate — DataCamp**
-📜 **CCA175 Spark and Hadoop Developer — Cloudera**
+[📜 **AI Engineer for Data Scientists Associate — DataCamp**](https://www.datacamp.com/certificate/AEDS0010948696733)
+
+[📜 **CCA175 Spark and Hadoop Developer — Cloudera**](https://www.linkedin.com/in/naishal-shah-94b005181/)
 
 ---
 
