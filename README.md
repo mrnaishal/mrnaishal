@@ -1,3 +1,5 @@
+![Banner](GitHub_banner.png)
+
 # Hi, I'm Naishal 👋
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
