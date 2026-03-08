@@ -121,3 +121,9 @@ Email
 ---
 
 ⭐ If you like my projects feel free to star them!
+
+## 📊 GitHub Stats
+
+![Naishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnaishal&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnaishal&layout=compact)
