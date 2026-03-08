@@ -96,9 +96,11 @@ Tech:
 ## 🎓 Education
 
 **Indiana University Bloomington**
+
 Masters Data Science (GPA 3.95)
 
 **Vellore Institute of Technology**
+
 Bachelors Computer Science (GPA 3.6)
 
 ---
