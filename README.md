@@ -1,4 +1,4 @@
-![Banner](GitHub_Banner.png)
+<img src="GitHub_Banner.png" width="100%" />
 
 # Hi, I'm Naishal 👋
 
