@@ -122,8 +122,6 @@ Email
 
 ⭐ If you like my projects feel free to star them!
 
-## 📊 GitHub Stats
+## 🐍 Contribution Graph
 
-![Naishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnaishal&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnaishal&layout=compact)
+![Snake animation](https://github.com/mrnaishal/mrnaishal/blob/output/github-contribution-grid-snake.svg)
