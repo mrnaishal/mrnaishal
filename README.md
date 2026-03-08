@@ -70,21 +70,13 @@ Tech:
 
 Python • SQL • Scala
 
-**Machine Learning**
+**Machine Learning**: Scikit-Learn • PyTorch • TensorFlow • XGBoost • Transformers • Computer Vision
 
-Scikit-Learn • PyTorch • TensorFlow • XGBoost • Transformers • Computer Vision
+**AI / LLM Systems**: RAG • Knowledge Graphs • Agentic AI • LangChain • Vector Embeddings • SPARQL
 
-**AI / LLM Systems**
+**Data Engineering**: Airflow • Spark • Databricks • Hive • Hudi • Flink • ETL Pipelines
 
-RAG • Knowledge Graphs • Agentic AI • LangChain • Vector Embeddings • SPARQL
-
-**Data Engineering**
-
-Airflow • Spark • Databricks • Hive • Hudi • Flink • ETL Pipelines
-
-**Cloud & DevOps**
-
-AWS • Docker • Snowflake • CI/CD • GitHub Actions
+**Cloud & DevOps**: AWS • Docker • Snowflake • CI/CD • GitHub Actions
 
 ---
 
