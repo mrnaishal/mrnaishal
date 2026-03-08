@@ -1,5 +1,12 @@
 # Hi, I'm Naishal Shah 👋
 
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-Advanced-green)
+![Data Engineering](https://img.shields.io/badge/DataEngineering-Advanced-orange)
+![AWS](https://img.shields.io/badge/AWS-Cloud-yellow)
+![Spark](https://img.shields.io/badge/Apache%20Spark-DataProcessing-red)
+![RAG](https://img.shields.io/badge/RAG-LLM%20Systems-purple)
+
 🎓 MS Data Science @ Indiana University Bloomington
 📊 Data Scientist | ML Engineer | Data Engineer
 ⚙️ Building scalable ML systems, data platforms, and intelligent AI assistants
