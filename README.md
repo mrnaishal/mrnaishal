@@ -1,41 +1,143 @@
 # Hi, I'm Naishal Shah 👋
 
-**Data Scientist / Data Engineer** building production data platforms and ML analytics, with recent work in **time-series forecasting, streaming analytics, and LLM + Knowledge Graph RAG**.
+🎓 MS Data Science @ Indiana University Bloomington
+📊 Data Scientist | ML Engineer | Data Engineer
+⚙️ Building scalable ML systems, data platforms, and intelligent AI assistants
 
-- 🎓 M.S. Data Science @ Indiana University Bloomington (2024–2026)
-- 🧠 Current focus: Forecasting • Real-time pipelines • RAG/KGs • Computer Vision
-- 🛠️ Stack: Python • SQL • Spark/Databricks • Airflow • AWS • Docker • Tableau
-
-## Featured work (start by pinning 4–6 repos)
-
-- **AgentiveMed** — Multi-agent LLM + KG-RAG assistant (Virtuoso/SPARQL + embeddings)  
-  `repo:` https://github.com/mrnaishal/agentivemed-kg-rag
-- **Is the Dog Happy?** — Region-guided ViT for canine emotion recognition + explainability  
-  `repo:` https://github.com/mrnaishal/dog-emotion-vit
-- **Streaming Analytics Starter** — Airflow + streaming ingestion + lakehouse upserts (demo)  
-  `repo:` https://github.com/mrnaishal/streaming-analytics-starter
-- **Forecasting Toolbox** — Reproducible forecasting experiments + evaluation harness  
-  `repo:` https://github.com/mrnaishal/forecasting-toolbox
-- **Portfolio Website** — Personal portfolio (GitHub Pages)  
-  `repo:` https://github.com/mrnaishal/Portfolio
-- **Fantasy Premier League Optimization** — ML for FPL decision support  
-  `repo:` https://github.com/mrnaishal/Fantasy-Premier-League-Optimization-Using-Machine-Learning
-
-## What I’m building / learning right now
-- Hybrid retrieval (vector + structured SPARQL) for grounded answers
-- Scalable pipelines (batch + streaming) with strong data-quality guardrails
-- Interpretable CV models (Grad-CAM / attribution methods)
-
-## Tech I use a lot
-**Languages:** Python, SQL  
-**Data/ML:** Pandas, NumPy, PySpark, scikit-learn, XGBoost, PyTorch, TensorFlow  
-**Pipelines:** Airflow, Spark, Databricks, Flink, Hudi  
-**Cloud:** AWS (S3/SQS/SNS/MWAA/CloudWatch), Docker
-
-## Connect
-- LinkedIn: https://www.linkedin.com/in/<your-linkedin-handle>/
-- Email: mrnaishal@gmail.com
+I have **5+ years of experience building production data platforms and machine learning systems** across finance, payments risk, and global health analytics. My work focuses on **scalable data pipelines, forecasting systems, knowledge graphs, and AI-powered decision support tools.**
 
 ---
 
-⭐ If you’re reviewing my work: check the pinned repos first, each one should have a clear README, quickstart, and reproducible results.
+## 🚀 Featured Projects
+
+### 🧠 AgentiveMed — Multi-Agent KG-RAG Medical Assistant
+
+🔗 https://github.com/mrnaishal/agentivemed
+
+Multi-agent medical assistant using **Knowledge Graphs + RAG + LLM agents**.
+
+**Highlights**
+
+* RDF knowledge graph hosted in **Virtuoso with SPARQL endpoint**
+* Hybrid retrieval: **vector embeddings + structured queries**
+* Multi-agent system using **AG2**
+* Domain agents: Alzheimer’s + Nutrition
+* Moderator agent orchestrates reasoning
+
+Tech:
+`Python` `RAG` `Knowledge Graphs` `SPARQL` `AG2` `LangChain` `Docker`
+
+---
+
+### 🐶 Dog Emotion Recognition (Vision Transformers)
+
+🔗 https://github.com/mrnaishal/dog-emotion-recognition
+
+Computer vision system that detects **dog emotional states using Vision Transformers**.
+
+Highlights:
+
+* Region-guided **ViT architecture**
+* YOLO annotation pipeline
+* **Grad-CAM + Deep Feature Factorization** for explainability
+* Cross-dataset training (Stanford Dogs + Oxford-IIIT Pet)
+
+Tech:
+`PyTorch` `Vision Transformers` `Computer Vision` `Explainable AI`
+
+---
+
+### 📈 Time Series Forecasting Pipeline
+
+🔗 https://github.com/mrnaishal/time-series-forecasting
+
+End-to-end forecasting framework for demand and trend analysis.
+
+Features:
+
+* XGBoost forecasting models
+* Data validation + feature engineering
+* Visualization dashboards
+* Reproducible ML pipeline
+
+Tech:
+`Python` `XGBoost` `Pandas` `Forecasting` `ML Pipelines`
+
+---
+
+### ⚽ Fantasy Premier League Optimization
+
+🔗 https://github.com/mrnaishal/Fantasy-Premier-League-Optimization-Using-Machine-Learning
+
+Machine learning system to optimize fantasy football team selection.
+
+Features:
+
+* Predictive modeling for player performance
+* Optimization strategies
+* Statistical feature engineering
+
+Tech:
+`Python` `Scikit-Learn` `Data Analysis`
+
+---
+
+## 🧠 Technical Skills
+
+**Languages**
+
+Python • SQL • Scala
+
+**Machine Learning**
+
+Scikit-Learn • PyTorch • TensorFlow • XGBoost • Transformers • Computer Vision
+
+**AI / LLM Systems**
+
+RAG • Knowledge Graphs • Agentic AI • LangChain • Vector Embeddings • SPARQL
+
+**Data Engineering**
+
+Airflow • Spark • Databricks • Hive • Hudi • Flink • ETL Pipelines
+
+**Cloud & DevOps**
+
+AWS • Docker • Snowflake • CI/CD • GitHub Actions
+
+---
+
+## 🏆 Certifications
+
+📜 **AI Engineer for Data Scientists Associate — DataCamp**
+📜 **CCA175 Spark and Hadoop Developer — Cloudera**
+
+---
+
+## 🎓 Education
+
+**Indiana University Bloomington**
+MS Data Science (GPA 3.95)
+
+Relevant Coursework:
+
+* Computer Vision
+* Applied Machine Learning
+* Cloud Computing
+* Knowledge Graphs & Agentic AI
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn
+https://www.linkedin.com/in/naishal-shah-94b005181/
+
+GitHub
+https://github.com/mrnaishal
+
+Email
+[mrnaishal@gmail.com](mailto:mrnaishal@gmail.com)
+
+---
+
+⭐ If you like my projects feel free to star them!
