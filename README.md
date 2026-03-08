@@ -1,4 +1,4 @@
-# Hi, I'm Naishal Shah 👋
+# Hi, I'm Naishal 👋
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-Advanced-green)
@@ -96,14 +96,12 @@ Tech:
 ## 🎓 Education
 
 **Indiana University Bloomington**
-MS Data Science (GPA 3.95)
+Masters Data Science (GPA 3.95)
 
-Relevant Coursework:
+**Relevant Coursework:** Computer Vision, Applied Machine Learning, Cloud Computing, Knowledge Graphs & Agentic AI, Statistics
 
-* Computer Vision
-* Applied Machine Learning
-* Cloud Computing
-* Knowledge Graphs & Agentic AI
+**Vellore Institute of Technology**
+Bachelors Computer Science (GPA 3.6)
 
 ---
 
