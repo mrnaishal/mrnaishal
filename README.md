@@ -98,8 +98,6 @@ Tech:
 **Indiana University Bloomington**
 Masters Data Science (GPA 3.95)
 
-**Relevant Coursework:** Computer Vision, Applied Machine Learning, Cloud Computing, Knowledge Graphs & Agentic AI, Statistics
-
 **Vellore Institute of Technology**
 Bachelors Computer Science (GPA 3.6)
 
